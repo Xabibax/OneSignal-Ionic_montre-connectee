@@ -1,0 +1,7 @@
+{
+  "name": "OneSignal-Ionic_montre-connectee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
